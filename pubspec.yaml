@@ -1,0 +1,7 @@
+name: user_manager_app
+description: A Dart CLI app to manage user data from JSONPlaceholder API
+version: 1.0.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  http: ^0.13.0
